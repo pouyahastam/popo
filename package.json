@@ -1,0 +1,1 @@
+{"name":"wctsp-telegram-relay","version":"1.0.0","private":true,"description":"Private Telegram Bot API relay for WooCommerce Telegram Store Pro","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
